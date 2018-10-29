@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\wyy_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_notifications_black_24dp.png",
+        "source": "F:\\wyy_demo\\nim_demo\\demo\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "F:\\wyy_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_home_black_24dp.png",
+        "source": "F:\\wyy_demo\\nim_demo\\demo\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "F:\\wyy_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_dashboard_black_24dp.png",
+        "source": "F:\\wyy_demo\\nim_demo\\demo\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard_black_24dp.png"
+    }
+]

@@ -1,0 +1,4 @@
+#Mon Oct 29 09:36:24 CST 2018
+base.0=F\:\\wyy_demo\\nim_demo\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+renamed.0=classes.dex
+file.0=F\:\\wyy_demo\\nim_demo\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\3\\classes.dex
